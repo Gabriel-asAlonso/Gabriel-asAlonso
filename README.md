@@ -29,7 +29,7 @@ Always open to learning new technologies and improving system scalability. ⚡
 
 </div>
 
---
+
 
 ## 🛠 Tech Stack & Tools
 
@@ -40,7 +40,7 @@ Always open to learning new technologies and improving system scalability. ⚡
 </div>
 
 
---
+
 
 ## 📚 Currently Learning
 
@@ -55,7 +55,7 @@ Always open to learning new technologies and improving system scalability. ⚡
 - 🎓 Analysis and Systems Development — Senac (Expected 2027)  
 - 🎓 Technical Degree in IT — Senac  
 
---
+
 
 <div align="center">
 
