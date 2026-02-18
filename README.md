@@ -29,7 +29,7 @@ Always open to learning new technologies and improving system scalability. ⚡
 
 </div>
 
----
+--
 
 ## 🛠 Tech Stack & Tools
 
@@ -48,18 +48,11 @@ Always open to learning new technologies and improving system scalability. ⚡
 
 </div>
 
----
+--
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Gabriel-asAlonso&show_icons=true&hide_title=true&include_all_commits=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-asAlonso&layout=compact&hide_title=true"/>
-
+<div align="center>
+<img height="50" src"https://camo.githubusercontent.com/8849d1ed20749c1e7ac3371fcefe00340fcf5e27d2edc8586dea391cb313bd26/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d74732c616e67756c61722c666c75747465722c6e6f64656a732c7068702c676f2c6d7973716c2c6c696e75782c61726475696e6f2c626173682c676974" />
 </div>
-
----
 
 ## 📚 Currently Learning
 
@@ -68,30 +61,13 @@ Always open to learning new technologies and improving system scalability. ⚡
 - 📱 Advancing Flutter development for cross-platform apps  
 - ⚙️ System performance optimization and clean code practices  
 
----
-
-## 🏗 Professional Experience
-
-### 🏢 Banktools — Full Stack Developer (Intern)
-- Development of corporate systems and banking automations  
-- Angular applications with REST API integration  
-- Backend with PHP and MySQL  
-- Financial integrations with PicPay, Bradesco and Banco Daycoval  
-- CRM development (Dexter)
-
-### 🏢 Genius Consultoria — Developer
-- Process automation with Zoho Creator  
-- Agile methodologies (Scrum/Kanban)  
-- System maintenance and performance improvements  
-
----
 
 ## 🎓 Education
 
 - 🎓 Analysis and Systems Development — Senac (Expected 2027)  
 - 🎓 Technical Degree in IT — Senac  
 
----
+--
 
 <div align="center">
 
