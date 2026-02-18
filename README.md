@@ -13,7 +13,7 @@ Always open to learning new technologies and improving system scalability. ⚡
 
 <br/>
 
-<a href="https://www.linkedin.com/in/galonso">
+<a href="https://www.linkedin.com/in/gasalonso">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:augusto.gabriel0212@gmail.com">
