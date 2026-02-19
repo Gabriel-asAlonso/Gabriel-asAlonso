@@ -29,7 +29,7 @@ Sempre aberto a aprender novas tecnologias e aprimorar a escalabilidade dos sist
 
 </div>
 
----
+
 
 ## 🛠 Tecnologias & Ferramentas
 
@@ -39,8 +39,6 @@ Sempre aberto a aprender novas tecnologias e aprimorar a escalabilidade dos sist
 
 </div>
 
----
-
 ## 📚 Atualmente Estudando
 
 - 🚀 Aprimorando TypeScript e arquitetura em Angular para aplicações escaláveis  
@@ -48,14 +46,10 @@ Sempre aberto a aprender novas tecnologias e aprimorar a escalabilidade dos sist
 - 📱 Evoluindo no desenvolvimento com Flutter para aplicações multiplataforma  
 - ⚙️ Otimização de performance e boas práticas de código limpo  
 
----
-
 ## 🎓 Formação
 
 - 🎓 Análise e Desenvolvimento de Sistemas — Senac (Previsão: 2027)  
 - 🎓 Técnico em Tecnologia da Informação — Senac  
-
----
 
 <div align="center">
 
