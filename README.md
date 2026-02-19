@@ -1,15 +1,15 @@
 <div align="center">
 
-# 👋 Hey there, I'm Gabriel Alonso!
+# 👋 Olá, eu sou Gabriel Alonso!
 
-💻 Full Stack Developer | Financial Systems | Angular & APIs 🚀
+💻 Desenvolvedor Full Stack | Sistemas Financeiros | Angular & APIs 🚀
 
-I'm a Full Stack Developer passionate about building scalable systems and real-world financial integrations.
+Sou Desenvolvedor Full Stack apaixonado por construir sistemas escaláveis e integrações financeiras aplicadas ao mundo real.
 
-Currently working with corporate platforms, banking automations and modern web applications.  
-I enjoy developing across the stack — front-end, back-end and APIs — always focusing on clean architecture and performance.
+Atualmente atuo com plataformas corporativas, automações bancárias e aplicações web modernas.  
+Gosto de desenvolver em toda a stack — front-end, back-end e APIs — sempre com foco em arquitetura limpa e performance.
 
-Always open to learning new technologies and improving system scalability. ⚡
+Sempre aberto a aprender novas tecnologias e aprimorar a escalabilidade dos sistemas. ⚡
 
 <br/>
 
@@ -29,9 +29,9 @@ Always open to learning new technologies and improving system scalability. ⚡
 
 </div>
 
+---
 
-
-## 🛠 Tech Stack & Tools
+## 🛠 Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -39,26 +39,26 @@ Always open to learning new technologies and improving system scalability. ⚡
 
 </div>
 
+---
 
+## 📚 Atualmente Estudando
 
+- 🚀 Aprimorando TypeScript e arquitetura em Angular para aplicações escaláveis  
+- 🔗 Melhorando integrações de APIs para sistemas financeiros  
+- 📱 Evoluindo no desenvolvimento com Flutter para aplicações multiplataforma  
+- ⚙️ Otimização de performance e boas práticas de código limpo  
 
-## 📚 Currently Learning
+---
 
-- 🚀 Improving TypeScript & Angular architecture for scalable applications  
-- 🔗 Enhancing API integrations for financial systems  
-- 📱 Advancing Flutter development for cross-platform apps  
-- ⚙️ System performance optimization and clean code practices  
+## 🎓 Formação
 
+- 🎓 Análise e Desenvolvimento de Sistemas — Senac (Previsão: 2027)  
+- 🎓 Técnico em Tecnologia da Informação — Senac  
 
-## 🎓 Education
-
-- 🎓 Analysis and Systems Development — Senac (Expected 2027)  
-- 🎓 Technical Degree in IT — Senac  
-
-
+---
 
 <div align="center">
 
-💬 “Building scalable systems that solve real-world problems.”
+💬 “Construindo sistemas escaláveis que resolvem problemas reais.”
 
 </div>
