@@ -51,6 +51,8 @@ Sempre aberto a aprender novas tecnologias e aprimorar a escalabilidade dos sist
 - 🎓 Análise e Desenvolvimento de Sistemas — Senac (Previsão: 2027)  
 - 🎓 Técnico em Tecnologia da Informação — Senac  
 
+<br><br/>
+
 <div align="center">
 
 💬 “Construindo sistemas escaláveis que resolvem problemas reais.”
